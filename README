@@ -1,0 +1,15 @@
+Install NodeJs
+Install Git
+Install YeoMan (npm install -g yo)
+Install Bower  (npm install -g bower)
+Install Grunt (npm install -g grunt-cli)
+Install Angular Generator (npm install -g generator-angular)
+----------------Go to your project folder-------------
+yo angular
+----select Bootstrap yes and everything else is no---------
+-----------create view------and use it----
+yo angular:view register
+-----------UI router---------
+bower install angular-ui-router
+------------bootstrap theme------------------
+<script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
